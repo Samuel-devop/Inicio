@@ -2,4 +2,12 @@ Anotações do curso de GitHub
 
 Aula sobre guia de markdown em "issues":
 
-** ou __ para deixar a mensagem em **negrito**
+Para deixar a mensagem em **negrito** utilize = ** / __
+
+Para deixar a mensagem em _itálico_ utilize = _
+
+Para deixar a mensagem ~~riscada~~ utilize = ~~
+
+Para criar TÍTULOS utilize = # / ## / ###
+
+É possível misturar confiurações!
